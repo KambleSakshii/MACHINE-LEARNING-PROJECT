@@ -1,0 +1,10 @@
+Industrial Sensor Data Analysis
+This project involves analyzing industrial sensor data to predict machine failures. The dataset includes various features such as air temperature, process temperature, rotational speed, torque, and tool wear, along with the target failure types.
+
+Dataset Overview:
+
+Features: Air temperature, process temperature, rotational speed, torque, tool wear
+
+Targets: Failure types (with no failure being the majority class)
+
+Sample Size: 10,000 records
